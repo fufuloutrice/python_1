@@ -1,0 +1,7 @@
+print('salut')
+input()
+print('sa va')
+input()
+print('tu veux aller chercher une glace')
+input()
+print('ok')
